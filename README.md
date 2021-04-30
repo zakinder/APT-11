@@ -7,14 +7,14 @@ decoration items:
 
 1.Boat
 
-3.infinity
+2.infinity
 
-5.Chess
+3.Chess
 
-7.Time
+4.Time
 
-9.Earth Globe
+5.Earth Globe
 
-11.Ocean scenery
+6.Ocean scenery
 
-13.Bicycle
+7.Bicycle
